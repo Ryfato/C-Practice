@@ -1,0 +1,12 @@
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.exe
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.deps.json
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.json
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.dev.json
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.dll
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\bin\Debug\netcoreapp3.1\Conversion.pdb
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfoInputs.cache
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfo.cs
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.csproj.CoreCompileInputs.cache
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.dll
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.pdb
+D:\Learn\Learning Program\C# Practice\Conversion\Conversion\obj\Debug\netcoreapp3.1\Conversion.genruntimeconfig.cache
